@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-I./src/vendor/raylib/include",
+      "-ggdb",
+      "-c",
+      "-o",
+      "build/layout.o",
+      "src/layout.c"
+    ],
+    "directory": "/home/thepanable/Dev/personal/rl_layout",
+    "file": "/home/thepanable/Dev/personal/rl_layout/src/layout.c",
+    "output": "/home/thepanable/Dev/personal/rl_layout/build/layout.o"
+  }
+]

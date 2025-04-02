@@ -1,0 +1,41 @@
+{
+  "specification": {
+    "rows": 12,
+    "cols": 12,
+    "navbar_colour": "#181818",
+    "tabs": [
+      {
+        "label": "System",
+        "components": [
+          {
+            "name": "schematic information",
+            "layout": {
+              "row_start": 1,
+              "row_end": 6,
+              "col_start": 1,
+              "col_end": 6
+            }
+          },
+          {
+            "name": "schematic diagram",
+            "layout": {
+              "row_start": 1,
+              "row_end": 6,
+              "col_start": 7,
+              "col_end": 12
+            }
+          },
+          {
+            "name": "charts",
+            "layout": {
+              "row_start": 7,
+              "row_end": 12,
+              "col_start": 1,
+              "col_end": 12
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
