@@ -90,7 +90,7 @@ div.container {
 }
 
 div.schematic-info {
-    grid-row: 1 / 7;
+    grid-row: 1 / 7; /* spans from line 1 to 6 (exclusive) */
     grid-column: 1 / 7;
 }
 
